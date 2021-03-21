@@ -1,25 +1,9 @@
 ### Hi there, I am Sid ! 👽
 
-- 🔭 I am currently working building tools provide intelligent insights on real time streaming data. 
+- 🔭 I am currently working building tools to provide insights on real time streaming data. 
 - ⚡ Fun fact: Sometimes behave like a starry eye kid 🤩 when talking about desgining, builiding and marketing data driven products.
 - In my own time I am writing about machine learning in practice 🤖 , reviewing books I read 🖋️ and tweeting my thoughts 🐦
 
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidharth.singh.1894@gmail.com)
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sidharth-singh-a9685413a/)
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_RealSid_)
-
-
-<!--
-**Realsid/realsid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
