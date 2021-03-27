@@ -1,4 +1,4 @@
-### Hi there, I am Sid ! 👽
+### Hi there, I am Sid ! 
 
 - 🔭 I am currently building tools to provide insights on real time streaming data. 
 - In my own time I am writing about machine learning in practice 🤖 , reviewing books I read 🖋️ and tweeting my thoughts 🐦
